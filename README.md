@@ -12,3 +12,21 @@ A responsive shopping cart web application built with React, Tailwind CSS, and R
 * 🔄 Persistent navbar (sticky at top)
 * 📦 FakeStore API integration (or mock data)
 
+## Installation
+
+1. **Clone the repository**:
+    ```sh
+    git clone <https://github.com/jawahargovindasamy/Product-Add-to-Cart-Using-Router>
+    ```
+    ```sh
+    cd task5
+    ```
+
+2. **Install Dependencies**:
+    ```sh
+    npm install
+    ```
+
+3. **Run Development Server**:
+    ```sh
+    npm run dev
